@@ -1,5 +1,5 @@
 # Drug-repurposing
-----
+
 
 Drug repurposing, also known as drug repositioning, is the process of finding new uses for existing medications that are outside the scope of their original medical indications. There are several compelling reasons for pursuing drug repurposing:
 
